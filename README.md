@@ -1,5 +1,7 @@
 # 가희의 미니 홈페이지
 
+<img width="1712" alt="Image" src="https://github.com/user-attachments/assets/c87302b8-f2d7-4726-a52b-cc98d060d5fc" />
+
 ## 내비게이션
 - navigation.md 추가
 - 로그인/로그아웃 추가
